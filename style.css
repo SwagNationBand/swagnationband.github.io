@@ -1,0 +1,32 @@
+body {
+	background-color: orange;
+}
+.Para {
+	font-family: Comic Sans MS;
+	color: brown;
+}
+.Oral {
+	font-family: Comic Sans MS;
+	color: yellow;
+}
+.topnav {
+	background-color: brown;
+	overflow: hidden;
+}
+.topnav a {
+	float: left;
+	color: orange;
+	font-family: Comic Sans MS;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color: yellow;
+	color: red;
+}
+.topnav a.active {
+	background-color: orange;
+	color: brown;
+}
